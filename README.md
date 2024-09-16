@@ -28,7 +28,7 @@ On the other hand, RAG Fusion is effective in addressing complex and ambiguous h
 
 The demo interface of the chatbot can be found here: [Streamlit](https://resume-screening-rag-gpt.streamlit.app)
 
-Default synthetic resume data set used in the demo: [GitHub](https://github.com/Hungreeee/Resume-Screening-RAG-Pipeline/blob/main/data/main-data/synthetic-resumes.csv)
+Default synthetic resume data set used in the demo: [GitHub](https://github.com/NickBot-dev/rag-pipeline-resume-screening/blob/main/data/main-data/synthetic-resumes.csv)
 
 Source job description dataset: [Kaggle](https://www.kaggle.com/datasets/kshitizregmi/jobs-and-job-description)
 
@@ -75,7 +75,7 @@ The pipeline begins by processing resumes into a vector storage. Upon receiving 
 To set up the project locally:
 ```
 # Clone the project
-git clone https://github.com/Hungreeee/Resume-Screening-RAG-Pipeline.git
+git clone https://github.com/NickBot-dev/rag-pipeline-resume-screening.git
 
 # Install dependencies
 pip install requirements.txt
